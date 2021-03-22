@@ -1,5 +1,6 @@
  ## Chakarian Riders
-[Live Demo](link)<br/>
+[Live Demo](https://chakarian-riders.web.app/)<br/>
+
 
 ## Functionality
 - User Authentication 
